@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "date": "2025-07-16",
+        "description": "beli popok",
+        "amount": 120000
+    },
+    {
+        "id": 2,
+        "date": "2025-07-16",
+        "description": "bayar kontrakan bulan juli",
+        "amount": 1000000
+    }
+]
